@@ -169,7 +169,9 @@ cython_debug/
 # .env
 .env
 
-# Specific Directories
+# Specific Directories and Files
 arxiv/
 docs/
 stable-signature/
+stable_signature
+notes.md
