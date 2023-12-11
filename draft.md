@@ -7,6 +7,8 @@ Watermark Aging of Images in Latent Diffusion Models
 The internet age has enabled easy replication and distribution of multimedia content, making it challenging to verify the originality of any piece. Watermarking techniques, like the Stable Signature, aim to embed invisible markers in content to track and verify its origin. However, as images undergo transformations, filters, or edits, the watermark may
 degrade. The concept of "Watermark Aging" delves into this phenomenon of watermark decay over time and modifications.
 
+<p style="color:red;">TODO: Add a paragraph about the contributions of the paper</p>
+
 # Introduction
 
 
@@ -22,8 +24,17 @@ In this rapidly evolving digital landscape, it is vital to understand how waterm
 
 This paper makes the following contributions:
 1. We introduce the concept of "Watermark Aging" in the context of DMs, highlighting the challenges and implications of watermark degradation over time and through transformations.
-2. <insert>
+2. <p style="color:red;">TODO: Add a contribution</p>
    
 
 
-# Method
+# Related Work
+
+## Watermarking Techniques
+
+
+
+- Similar to our works for unconditional/conditional generation, this invisible signature can be used
+for ownership verification and detection of generated contents
+
+
