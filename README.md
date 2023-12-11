@@ -72,7 +72,8 @@ unzip train2017.zip
 
 Most of the code in this repository is based on the following papers and their code repositories:
 
-1. [Stable-Signature](https://github.com/facebookresearch/stable_signature)
-2. [Stable-Diffusion](https://github.com/Stability-AI/stablediffusion)
-3. [Perceptual-Similarity](https://github.com/SteffenCzolbe/PerceptualSimilarity)
-4. [HiDDeN](https://github.com/ando-khachatryan/HiDDeN)
+[Stable-Signature]: https://github.com/facebookresearch/stable_signature
+
+[Perceptual-Similarity]: https://github.com/SteffenCzolbe/PerceptualSimilarity
+
+[HiDDeN]: https://github.com/ando-khachatryan/HiDDeN
