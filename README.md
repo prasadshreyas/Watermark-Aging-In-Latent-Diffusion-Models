@@ -48,7 +48,9 @@ It has two steps:
    2. Binary Cross Entropy for message loss and Watson-VGG perceptual loss for minimal perceptual distortion, optimized using AdamW.
 
 
-To perform step 1, we will checkpoint from the code [repository][Stable-Signature].
+To perform step 1, we will checkpoint from the code [repository][Stable-Signature]'s /hidden/ folder. We will use the following command to train the watermark extractor:
+
+``` bash
 
 
 
@@ -70,10 +72,18 @@ unzip train2017.zip
 
 ## Acknowledgements
 
-Most of the code in this repository is based on the following papers and their code repositories:
 
 [Stable-Signature]: https://github.com/facebookresearch/stable_signature
 
 [Perceptual-Similarity]: https://github.com/SteffenCzolbe/PerceptualSimilarity
 
 [HiDDeN]: https://github.com/ando-khachatryan/HiDDeN
+
+
+Most of the code in this repository is based on the following papers and their code repositories:
+
+- Stable Signature: github.com/facebookresearch/stable_signature
+- Perceptual Similarity: github.com/SteffenCzolbe/PerceptualSimilarity
+- HiDDeN: github.com/ando-khachatryan/HiDDeN
+
+
