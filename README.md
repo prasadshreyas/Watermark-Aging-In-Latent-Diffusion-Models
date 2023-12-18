@@ -19,7 +19,7 @@ Authors:
 
 ## How to use this repository
 
-   This repository is built originally on the DGX A100 machine, with the V100 GPUs. The code is tested on Ubuntu 18.04.5 LTS with CUDA toolkit 11.3 and Python 3.8.10 with a VSCode as the IDE.
+   This repository is built originally on DGX2. The code is tested on Ubuntu 18.04.5 LTS with CUDA toolkit 11.3 and Python 3.8.10 with a VSCode as the IDE.
 
 ## Setup
 
