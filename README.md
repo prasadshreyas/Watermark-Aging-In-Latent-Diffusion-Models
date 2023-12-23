@@ -9,7 +9,6 @@ Authors:
 ## Links
 
 <h3 align="center">
-  <a href="https://youtu.be/emZZCZVmAjM">Video</a>
   <a href="Watermark-Aging-Presentation.pdf">Slides</a>
    <a href="report.pdf">Report</a>
 </h3>
